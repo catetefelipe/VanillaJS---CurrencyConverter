@@ -1,6 +1,6 @@
 const input = document.querySelectorAll("input");
 const select = document.querySelectorAll("select");
-const API_URL = "https://data.fixer.io/api/latest?access_key=992c32c0c5eb2f66aa830292376a115e&format=1";
+const API_URL = "http://data.fixer.io/api/latest?access_key=992c32c0c5eb2f66aa830292376a115e&format=1";
 let html = "";
 
 
