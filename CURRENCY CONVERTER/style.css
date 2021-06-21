@@ -83,6 +83,7 @@ h1 {
     border: none;
     margin-top: 1rem;
     padding-left: 1rem;
+    border-radius: 5px;
 }
 
 
@@ -94,6 +95,7 @@ h1 {
     border: none;
     background-color: #000;
     color: #fff;
+    border-radius: 5px;
 }
 
 
